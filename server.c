@@ -16,13 +16,7 @@
 //Class: CS 360
 //Assignment: Program 2 (SERVER)
 //==============================================================================
-//Description: This is a server that implements the "Knock Knock Protocol" as
-//		described in the instruction document for the CS360 Program 1
-//		assignment.
-//		
-//		NOTE: Please view the README for instruction on testing the
-//		server without a client.
-//==============================================================================
+
 
 void SIGHandler (int s); 
 
