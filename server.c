@@ -11,7 +11,7 @@
 
 #define ISspace(x) isspace((int)(x))
 
-#define SERVER_PORT 8180 
+#define SERVER_PORT 8181
 #define MAX_PENDING 1
 #define BUFSIZE 9000 
 
